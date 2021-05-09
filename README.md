@@ -10,6 +10,8 @@
 
 ## Installation:
 
+quick check
+
 #### Globally via `npm`
 
     npm install --global http-server
