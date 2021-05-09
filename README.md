@@ -10,7 +10,7 @@
 
 ## Installation:
 
- just a testing
+ keeps testing always
 #### Globally via `npm`
 
     npm install --global http-server
