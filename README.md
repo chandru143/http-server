@@ -9,8 +9,8 @@
 ![Example of running http-server](https://github.com/http-party/http-server/raw/master/screenshots/public.png)
 
 ## Installation:
-
- keeps testing always
+Installation steps can be found here
+ 
 #### Globally via `npm`
 
     npm install --global http-server
